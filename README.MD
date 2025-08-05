@@ -2,6 +2,14 @@
 
 A Streamlit app for detecting and visualizing **High** vs **Low** volatility regimes in cryptocurrency price data using machine learning.
 
+# Crypto Volatility Dashboard
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Build Status](https://github.com/yourusername/crypto-volatility-dashboard/actions/workflows/python-app.yml/badge.svg)
+
+A Streamlit app for crypto volatility regime detection...
+
 ---
 
 ## 🔥 Project Overview
@@ -60,3 +68,4 @@ This dashboard uses historical price data for popular cryptocurrencies (e.g., BT
 
 ```bash
 streamlit run crypto_volatility_dashboard.py
+
